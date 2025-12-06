@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import { createRoot } from 'react-dom/client';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Language, Page, GlobalContent } from './types';
 import { CONTENT, ASSETS, CONTACT_INFO } from './constants';
